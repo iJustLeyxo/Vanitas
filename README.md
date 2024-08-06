@@ -2,6 +2,14 @@
 
 Vanitas is a modern transparent UI resourcepack for Minecraft Java Edition.
 
+### Installations
+
+- You can install this resourcepack directly via the CurseForge App.
+- Alternatively, as with any other resourcepack, move the zip-file you downloaded from the CurseForge page or the GitHub repo into the resourcepacks folder of your Minecraft Java Edition installation.
+
+Don't forget to activate the resourcepack in your game settings under options > resourcepacks.
+
+
 ### Issues
 
 Please report any issues using the issue tracker on the GitHub repository.
