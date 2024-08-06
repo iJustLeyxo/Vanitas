@@ -2,9 +2,21 @@
 
 Vanitas is a modern transparent UI resourcepack for Minecraft Java Edition.
 
-### Project Status and Issue Tracker
+### Issues
 
-Vanitas is currently under development and thus will experience further changes that exceed those made necessary by new Minecraft Java Edition releases. Please report any issues using the [GitHub issue tracker](https://github.com/iJustLeyxo/Vanitas/issues/new).
+Please report any issues using the issue tracker on the GitHub repository.
+
+[Report an issue](https://github.com/iJustLeyxo/Vanitas/issues/new)
+
+### Project Source, Usage and License
+
+The project sources can be found on the projects GitHub repository. You are free to use these sources in compliance with the license, which can also be found on the GitHub, the CurseForge project page and in any release.
+
+[GitHub Repository](https://github.com/iJustLeyxo/Vanitas)
+
+### Project Status
+
+Vanitas is currently under development and thus will experience further major changes that exceed those made necessary by new Minecraft Java Edition releases.
 
 ### Version Compatibility
 
