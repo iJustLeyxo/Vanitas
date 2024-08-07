@@ -20,6 +20,7 @@ Please report any issues using the issue tracker on the GitHub repository.
 
 The project sources can be found on the projects GitHub repository. You are free to use these sources in compliance with the license, which can also be found on the GitHub, the CurseForge project page and in any release.
 
+[CurseForge Page](https://www.curseforge.com/minecraft/texture-packs/vanitas)
 [GitHub Repository](https://github.com/iJustLeyxo/Vanitas)
 
 ### Project Status
