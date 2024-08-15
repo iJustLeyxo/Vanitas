@@ -36,11 +36,13 @@ Vanitas is currently only available for the following Minecraft Java Edition Ver
 (LTS = long term support)
 - 1.21 (newest release)
 - 1.20 ~ 1.20.6 (2nd newest release and all subreleases)
-- 1.15 ~ 1.16.1 LTS (Coming soon)
-- 1.11 ~ 1.12.2 LTS (work in progress)
-- 1.6.1 ~ 1.8.9 LTS (work in progress)
+- 1.15 ~ 1.16.1 LTS
+- 1.11 ~ 1.12.2 LTS
+- 1.6.1 ~ 1.8.9 LTS
 
-Vanitas will always be upated for the newest two Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions as soon as possible. Other version compatibility might be added upon request and when deemed beneficial to the project.
+Please note that some features are not available for all Minecraft Java Edition releases due to technical limitations.
+
+Vanitas will always be upated for the newest two major Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions. Support for snapshots is not planned for. Other version compatibility might be added upon request and when deemed beneficial to the project.
 
 
 ### Mod Compatibility
