@@ -1,13 +1,16 @@
 #bin/bash
 
-mkdir target
+rm -rf target/
+mkdir target/
 
 for item in *; do
     if [ -d "$item" ]; then
         if [ "$item" != "." ] && [ "$item" != ".." ] && [ "$item" != "pics" ] && [ "$item" != "target" ]; then
             cd "$item"
-            zip -r -0 "${item}.zip" *
-            cp "${item}.zip" ../target/
+            name="Vanitas-${1}-${item}.zip"
+            echo "$name"
+            zip -r -q -0 "$name" *
+            cp "$name" ../target/
             cd ..
         fi
     fi
