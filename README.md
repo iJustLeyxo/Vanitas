@@ -61,3 +61,9 @@ This resourcepack replaces the vanilla GUI textures and replaces them with minim
 - Toasts textures (advancements, recipe, tutorial and system message popups)
 - Item slot textures
 - Heart particle textures
+
+### Affiliation Notice
+
+Vanitas is brough to you by all contributors to the Vanitas porject.
+
+Vanitas is not official Minecraft content. Vanitas is not approved by or associated with Mojang or Microsoft.
