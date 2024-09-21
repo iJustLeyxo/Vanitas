@@ -31,7 +31,7 @@ Vanitas is currently under development and thus will experience further major ch
 
 ### Version Compatibility
 
-Vanitas is currently only available for the following Minecraft Java Edition Versions:
+Vanitas is currently available for the following Minecraft Java Edition Versions:
 (LTS = long term support)
 - 1.21 (newest release)
 - 1.20 ~ 1.20.6 (2nd newest release and all subreleases)
@@ -41,7 +41,9 @@ Vanitas is currently only available for the following Minecraft Java Edition Ver
 
 Please note that some features are not available for all Minecraft Java Edition releases due to technical limitations.
 
-Vanitas will always be upated for the newest two major Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions. Support for snapshots is not planned for. Other version compatibility might be added upon request and when deemed beneficial to the project.
+Even though some versions of Vanitas may work with certain Minecraft Java Edition snapshots, please note that support for snapshots is not planned.
+
+Vanitas will always be upated for the newest two major Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions. Other version compatibility might be added upon request and when deemed beneficial to the project.
 
 
 ### Mod Compatibility
@@ -59,3 +61,9 @@ This resourcepack replaces the vanilla GUI textures and replaces them with minim
 - Toasts textures (advancements, recipe, tutorial and system message popups)
 - Item slot textures
 - Heart particle textures
+
+### Affiliation Notice
+
+Vanitas is brough to you by all contributors to the Vanitas porject.
+
+Vanitas is not official Minecraft content. Vanitas is not approved by or associated with Mojang or Microsoft.
