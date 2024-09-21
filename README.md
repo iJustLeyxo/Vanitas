@@ -64,6 +64,5 @@ This resourcepack replaces the vanilla GUI textures and replaces them with minim
 
 ### Affiliation Notice
 
-Vanitas is brough to you by all contributors to the Vanitas porject.
-
+Vanitas is brough to you by all contributors to the Vanitas project.
 Vanitas is not official Minecraft content. Vanitas is not approved by or associated with Mojang or Microsoft.
