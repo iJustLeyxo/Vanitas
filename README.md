@@ -12,28 +12,24 @@ Don't forget to activate the resourcepack in your game settings under Options âž
 
 ### Issues
 
-Please report any issues using the issue tracker on the GitHub repository.
-
-[Report an issue](https://github.com/iJustLeyxo/Vanitas/issues/new)
+Please report any issues by [creating a new issue](https://github.com/iJustLeyxo/Vanitas/issues/new) using the [issue tracker](https://github.com/iJustLeyxo/Vanitas/issues/) on the GitHub repository.
 
 
 ### Project Source, Usage and License
 
-The project sources can be found on the projects GitHub repository. You are free to use these sources in compliance with the license, which can also be found on the GitHub, the CurseForge project page and in any release.
-
-[CurseForge](https://www.curseforge.com/minecraft/texture-packs/vanitas) / [Modrinth](https://modrinth.com/resourcepack/vanitas) / [GitHub](https://github.com/iJustLeyxo/Vanitas)
+The project sources can be found on the [Vanitas GitHub repository](https://github.com/iJustLeyxo/Vanitas). Packaged downloads are also available on the [Vanitas CurseForge page](https://www.curseforge.com/minecraft/texture-packs/vanitas) and the [Vanitas Modrinth page](https://modrinth.com/resourcepack/vanitas). You are free to use the contents of this project in compliance with the license, which can also be found on the GitHub repository, the CurseForge and Modrinth project pages and in every official release.
 
 
 ### Project Status
 
-Vanitas is currently under development and thus will experience further major changes that exceed those made necessary by new Minecraft Java Edition releases.
+Vanitas is no longer under development and thus will only experience minor changes and bug fixes, aswell as updates to new Minecraft Java Editior releases.
 
 
 ### Version Compatibility
 
-Vanitas is currently available for the following Minecraft Java Edition Versions:
+Vanitas is currently compatible with the following Minecraft Java Edition releases:
 (LTS = long term support)
-- 1.21 (newest release)
+- 1.21 ~ 1.21.1 (newest release)
 - 1.20 ~ 1.20.6 (2nd newest release and all subreleases)
 - 1.15 ~ 1.16.1 LTS
 - 1.11 ~ 1.12.2 LTS
@@ -41,9 +37,9 @@ Vanitas is currently available for the following Minecraft Java Edition Versions
 
 Please note that some features are not available for all Minecraft Java Edition releases due to technical limitations.
 
-Even though some versions of Vanitas may work with certain Minecraft Java Edition snapshots, please note that support for snapshots is not planned.
+Even though some versions of Vanitas may work with certain Minecraft Java Edition snapshots, please note that support for snapshots is not intended.
 
-Vanitas will always be upated for the newest two major Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions. Other version compatibility might be added upon request and when deemed beneficial to the project.
+Vanitas will always be upated to the newest two major Minecraft Java Edition releases and all subreleases, aswell as specific long term supported versions. Other version compatibility might be added upon request and when deemed beneficial to the project.
 
 
 ### Mod Compatibility
@@ -54,12 +50,12 @@ Vanitas currently does not offer any compatibility with any mods. Mod compatibil
 ### Contents
 
 This resourcepack replaces the vanilla GUI textures and replaces them with minimal and transparent new textures in a modern design. This includes:
-- Menu and settings textures (buttons, sliders, text input fields, selection arrows, etc.)
-- Container textures (interactive blocks & inventories)
-- Advancements textures
-- Hotbar, health-bar, hunger-bar, xp-bar, jump-bar and boss-bar textures
+- Menu and settings interface textures (buttons, sliders, text input fields, selection arrows, etc.)
+- Container interface textures (interactive blocks, player & entity inventories)
+- Advancements screen textures
+- Hotbar, health-bar, hunger-bar, xp-bar, jump-bar and boss-bar HUD textures
 - Toasts textures (advancements, recipe, tutorial and system message popups)
-- Item slot textures
+- Empty item slot textures
 - Heart particle textures
 
 ### Affiliation Notice
