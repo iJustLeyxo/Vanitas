@@ -28,12 +28,12 @@ Vanitas is no longer under development and thus will only experience minor chang
 ### Version Compatibility
 
 Vanitas is currently compatible with the following Minecraft Java Edition releases:
-(LTS = long term support)
 - 1.21 ~ 1.21.1 (newest release)
 - 1.20 ~ 1.20.6 (2nd newest release and all subreleases)
-- 1.15 ~ 1.16.1 LTS
-- 1.11 ~ 1.12.2 LTS
-- 1.6.1 ~ 1.8.9 LTS
+- 1.15 ~ 1.16.1 (LTS)
+- 1.11 ~ 1.12.2 (LTS)
+- 1.6.1 ~ 1.8.9 (LTS)
+(LTS = long term support)
 
 Please note that some features are not available for all Minecraft Java Edition releases due to technical limitations.
 
