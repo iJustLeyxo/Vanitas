@@ -5,7 +5,7 @@ mkdir target/
 
 for item in *; do
     if [ -d "$item" ]; then
-        if [ "$item" != "." ] && [ "$item" != ".." ] && [ "$item" != "pics" ] && [ "$item" != "target" ]; then
+        if [ "$item" != "." ] && [ "$item" != ".." ] && [ "$item" != "pics" ] && [ "$item" != "target" ] && [ "$item" != "tools" ]; then
             dir="${item}/"
             file="Vanitas-${1}-${item}.zip"
             echo "Compiling ${file}"
