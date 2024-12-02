@@ -4,7 +4,8 @@
 
 rm -rf PackMake.jar PackMake.zip PackMake/
 
-PM_VER=$(echo $(curl -s https://api.github.com/repos/iJustLeyxo/PackMake/releases/latest) | jq -r '.tag_name')
+PM_VER="0.0.1"
+# Newest PM_VER=$(echo $(curl -s https://api.github.com/repos/iJustLeyxo/PackMake/releases/latest) | jq -r '.tag_name')
 PM_URL="https://github.com/iJustLeyxo/PackMake/archive/refs/tags/$PM_VER.zip"
 
 if [ -z "$PM_URL" ]; then
