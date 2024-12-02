@@ -81,4 +81,4 @@ The build script uses the [PackMake](https://github.com/iJustLeyxo/PackMake/) re
 
 #### Compressing
 
-The compress script uses the [OptiPNG](https://optipng.sourceforge.net/) png file optimizer, which is required to compress the source files.
+The compress script uses the [OptiPNG](https://optipng.sourceforge.net/) png file optimizer, which is required to compress the source files. Compilation does not require the compress script or OptiPNG.
