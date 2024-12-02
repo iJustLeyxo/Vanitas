@@ -53,7 +53,9 @@ This resourcepack replaces the vanilla GUI textures and replaces them with minim
 
 ### Mod Compatibility
 
-Vanitas currently does not offer compatibility with any mods. Mod compatibility is planned for future releases.
+Vanitas is currently compatible with the following mods:
+
+- Appleskin: Adds various food-related HUD improvements. [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) [Modrinth](https://modrinth.com/mod/appleskin) - Since [Beta 1.4.0](https://github.com/iJustLeyxo/Vanitas/releases/tag/1.4.0)
 
 
 ### Affiliation Notice
