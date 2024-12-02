@@ -63,3 +63,11 @@ This resourcepack replaces the vanilla GUI textures and replaces them with minim
 
 Vanitas is brough to you by all contributors to the Vanitas project.
 Vanitas is not official Minecraft content. Vanitas is not approved by or associated with Mojang or Microsoft.
+
+### Compiling
+
+The build script uses the [PackMake](https://github.com/iJustLeyxo/PackMake/) resource pack compiler, which is automatically downloaded and used to interpret the source file structure.
+
+### Compressing
+
+The compress script uses the [OptiPNG](https://optipng.sourceforge.net/) png file optimizer, which is required to compress the source files.
