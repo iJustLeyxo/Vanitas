@@ -20,8 +20,8 @@ if [ ! -e "PackMake-${PM_VER}.jar" ]; then # Download PackMake if not exists
     curl -sLo "PackMake-${PM_VER}.zip" $PM_URL
 
     echo "Extracting resourcepack compiler"
-    unzip -q "PackMake${PM_VER}.zip"
-    rm -f "PackMake${PM_VER}.zip"
+    unzip -q "PackMake-${PM_VER}.zip"
+    rm -f "PackMake-${PM_VER}.zip"
 
     PM_DIR="PackMake-$PM_VER/"
     cd "$PM_DIR"
