@@ -4,7 +4,7 @@
 
 rm -rf PackMake.jar PackMake.zip PackMake/ target/
 
-PM_VER="0.0.2"
+PM_VER="0.0.3"
 # Newest PM_VER=$(echo $(curl -s https://api.github.com/repos/iJustLeyxo/PackMake/releases/latest) | jq -r '.tag_name')
 PM_URL="https://github.com/iJustLeyxo/PackMake/archive/refs/tags/$PM_VER.zip"
 
