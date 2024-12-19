@@ -34,4 +34,4 @@ if [ ! -e "PackMake-${PM_VER}.jar" ]; then # Download PackMake if not exists
 fi
 
 echo "Compiling resourcepack"
-java -jar "PackMake-${PM_VER}.jar
+java -jar "PackMake-${PM_VER}.jar"
