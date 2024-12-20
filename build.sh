@@ -29,6 +29,7 @@ if [ ! -e "PackMake-${PM_VER}.jar" ]; then # Download PackMake if not exists
     echo "Compiling resourcepack compiler"
     mvn -q clean package
     cd ..
+    rm -f *.jar
     cp "$PM_DIR/target/PackMake.jar" "PackMake-${PM_VER}.jar"
     rm -rf "$PM_DIR"
 fi
