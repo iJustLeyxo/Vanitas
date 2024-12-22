@@ -79,8 +79,3 @@ This project is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.
 #### Compiling
 
 The build script uses the [PackMake](https://github.com/iJustLeyxo/PackMake/) resource pack compiler, which is automatically downloaded and used to interpret the source file structure.
-
-
-#### Compressing
-
-The compress script uses the [OptiPNG](https://optipng.sourceforge.net/) png file optimizer, which is required to compress the source files. Compilation does not require the compress script or OptiPNG.
