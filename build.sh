@@ -4,7 +4,7 @@
 
 rm -rf PackMake.jar PackMake.zip PackMake/ target/
 
-PM_VER="0.0.5"
+PM_VER="0.0.7"
 
 
 if [ ! -e "PackMake-${PM_VER}.jar" ]; then # Download PackMake if not exists
