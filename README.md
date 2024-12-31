@@ -5,14 +5,15 @@ Vanitas is a modern transparent user interface resource pack for [Minecraft](htt
 
 ### Contents
 
-This resourcepack replaces the vanilla GUI textures and replaces them with minimal and transparent new textures in a modern design. This includes:
+This resourcepack replaces the vanilla GUI textures with new modern minimalistic transparent textures. This includes:
 - Menu and settings interface textures (buttons, sliders, text input fields, selection arrows, etc.)
 - Container interface textures (interactive blocks, player & entity inventories)
 - Advancements screen textures
-- Hotbar, health-bar, hunger-bar, xp-bar, jump-bar and boss-bar HUD textures
-- Toasts textures (advancements, recipe, tutorial and system message popups)
+- Hotbar, health-bar, hunger-bar, xp-bar, jump-bar and boss-bar textures
+- Toasts textures (message popups)
 - Empty item slot textures
 - Heart particle textures
+- Health and damage potion effect icons
 
 
 ### Installation
