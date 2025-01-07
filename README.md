@@ -61,7 +61,7 @@ Vanitas is currently compatible with the following mods:
 
 ### Affiliation Notice
 
-Vanitas is brough to you by all contributors to the Vanitas project.
+Vanitas is brought to you by all contributors to the Vanitas project.
 Vanitas is not official Minecraft content. Vanitas is not approved by or associated with Mojang or Microsoft.
 
 
